@@ -1,0 +1,115 @@
+/* *{margin: 0;
+padding: 0;}
+
+/* Banner section start */
+/* ul.tab-row{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 20px 0 15px 0;
+    flex-wrap: wrap;
+    background-color: rgba(255, 255, 255, .85);
+    position: fixed;
+}
+ul.tab-row li{
+    list-style: none;
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    z-index: 1;
+    transition: all 0.5s ease 0s;
+}
+ul.tab-row li a{
+    text-decoration: none;
+    display: block;
+    font-size: 15px;
+    font-weight: 600;
+}
+ul.tab-row li a:hover{
+    color: #007bff;
+    
+}
+
+ul.tab-row li:after{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 3px;
+    left: 0;
+    bottom: -20px;
+    background-color: #0074ce;
+    
+}  */
+
+.text{
+    
+}
+
+.inner-page{
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+}
+
+.left-img{
+    box-shadow: 5px 5px 38px 0 rgba(0, 0, 0, 0.40);
+    margin: -25px 0 0 0;
+    height: auto;
+}
+
+.our-benefits-section{
+    background-color: #0074ce;
+}
+
+.aowsam-img a{
+    margin-top: -45px;  
+}
+.aowsam-img a i{
+    width: 90px;
+    height: 90px;
+    font-size: 50px;
+    color: #fff;
+    box-sizing: border-box;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, .3) inset;
+    border-radius: 50%;
+    background-color: #045390;
+    position: relative;
+    outline: none;
+    text-align: center;
+    margin-top: -45px;
+}
+.aowsam-img{
+    margin-top: 45px;
+    border: 1px solid;
+    padding: 15px ;
+    box-sizing: border-box;
+    text-align: center;
+    
+
+}
+.inner-area{
+    display: flex;
+    margin-right: 5px;
+    flex-wrap: wrap;
+
+}
+.text-area{
+    text-align: center;
+    margin-top: 20px;
+
+}
+.text-area h1{
+color: #fff;
+}
+.text-area p{
+    color: #fff;
+    }
+
+.aowsam-img h2{
+color: #fff;
+}
+.aowsam-img p{
+    color: #fff;
+}
